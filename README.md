@@ -8,7 +8,7 @@ This project is also knows as: Windows Vista 2020 Edition, Windows Vista 2018 Ed
 DOWNLOADS
 
    Latest Milestone 2: https://github.com/techpointdev/Win-Vista-Modern-Edition/releases/download/M2/VistaModernM2.zip
-   Website: https://www.windowsvistamodern.gq
+   Website: https://www.vistamodern.gq
    
    
    
