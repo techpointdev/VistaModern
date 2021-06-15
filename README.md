@@ -1,6 +1,6 @@
 # ![Logo](https://i.ibb.co/bvtwwfw/vistamodern-cropped-github-readme.png)
 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwhBpx4YeI5UwloKvEYZ5kw?style=social) ![Discord](https://img.shields.io/discord/715941035175575602)
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwhBpx4YeI5UwloKvEYZ5kw?style=social) ![Discord](https://img.shields.io/discord/715941035175575602) ![Vista](https://img.shields.io/badge/Windows-Vista-blueviolet)
 
 
 Microsoft Abandoned Windows Vista, the operating system hated by millions, but I still like Windows Vista, so I decided to revamp the OS via a transformation pack, my main inspiration being Avdan's Concept for Windows Vista 2018 Edition
@@ -27,5 +27,3 @@ The file is a WinRAR self-extracting archive, in .exe format. Just Double click 
 * Clean- Windows Vista Modern Edition looks really neat and aesthetic.
 * Tutorials- Still having trouble installing? There are some easy tutorials! [WATCH HERE](https://youtu.be/v3zX_0Za_4o)
 * Free of cost- Windows Vista Modern Edition is completly free, nothing locked behind a payment wall, made for the community and will always be free!
-
-Thanks for reading!
