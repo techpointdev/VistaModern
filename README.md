@@ -14,7 +14,7 @@ Formerly known as Windows Vista 2020 Edition, Inspired from Avdan's Windows Vist
 The file is a WinRAR self-extracting archive, in .exe format. Just Double click the file and extract it, as simple as that
 
 
-* [![Download](https://img.shields.io/badge/Download-Latest-yellow)](https://www.vistamodern.gq/#one)
+* [![Download](https://img.shields.io/badge/Download-Recommended-yellow)](https://www.vistamodern.gq/#one)
 
 * [![DirectDL](https://img.shields.io/badge/Download-Direct-brightgreen)](https://github.com/techpointdev/Win-Vista-Modern-Edition/releases/download/M2/VistaModernM2.zip)
 
