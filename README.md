@@ -1,4 +1,4 @@
-# ![Logo](https://i.ibb.co/WFd4hmG/vistamodern.png)
+# ![Logo](https://i.ibb.co/bvtwwfw/vistamodern-cropped-github-readme.png)
 
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwhBpx4YeI5UwloKvEYZ5kw?style=social) ![Discord](https://img.shields.io/discord/715941035175575602)
 
