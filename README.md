@@ -27,3 +27,5 @@ The file is a WinRAR self-extracting archive, in .exe format. Just Double click 
 * Clean- Windows Vista Modern Edition looks really neat and aesthetic.
 * Tutorials- Still having trouble installing? There are some easy tutorials! [WATCH HERE](https://youtu.be/v3zX_0Za_4o)
 * Free of cost- Windows Vista Modern Edition is completly free, nothing locked behind a payment wall, made for the community and will always be free!
+
+
