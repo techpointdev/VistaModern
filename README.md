@@ -1,6 +1,6 @@
 # [![Logo](https://i.ibb.co/bvtwwfw/vistamodern-cropped-github-readme.png)](https://www.vistamodern.gq)
 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwhBpx4YeI5UwloKvEYZ5kw?style=social) ![Discord](https://img.shields.io/discord/715941035175575602) ![Vista](https://img.shields.io/badge/Windows-Vista-blueviolet)
+ [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwhBpx4YeI5UwloKvEYZ5kw?style=social)](https://www.youtube.com/techpointch) [![Discord](https://img.shields.io/discord/715941035175575602)](https://discord.com/invite/nh55Te59mP) ![Vista](https://img.shields.io/badge/Windows-Vista-blueviolet)
 
 
 Microsoft Abandoned Windows Vista, the operating system hated by millions, but I still like Windows Vista, so I decided to revamp the OS via a transformation pack, my main inspiration being Avdan's Concept for Windows Vista 2018 Edition
